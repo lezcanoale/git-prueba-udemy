@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Git Hub
 Este es un mensaje editado completamente desde Git hub
+
+Prueba si funciona config. pull ff
